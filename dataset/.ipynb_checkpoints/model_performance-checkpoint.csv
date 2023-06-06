@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,training_time
+Random Forest,78.13%,78.50%,78.32%,48.24612331390381
+LightGBM,77.11%,77.97%,77.36%,1.2143244743347168
+Random Forest with Hyperparameter,74.00%,75.00%,74.11%,9.78473973274231
+LightGBM with Hyperparameter,77.73%,78.45%,77.94%,2.8029754161834717
